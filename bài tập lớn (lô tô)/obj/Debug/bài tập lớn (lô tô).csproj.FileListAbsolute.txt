@@ -1,0 +1,11 @@
+C:\Users\koco2\source\repos\bài tập lớn (lô tô)\bài tập lớn (lô tô)\bin\Debug\bài tập lớn (lô tô).exe.config
+C:\Users\koco2\source\repos\bài tập lớn (lô tô)\bài tập lớn (lô tô)\bin\Debug\bài tập lớn (lô tô).exe
+C:\Users\koco2\source\repos\bài tập lớn (lô tô)\bài tập lớn (lô tô)\bin\Debug\bài tập lớn (lô tô).pdb
+C:\Users\koco2\source\repos\bài tập lớn (lô tô)\bài tập lớn (lô tô)\obj\Debug\bài tập lớn (lô tô).csproj.AssemblyReference.cache
+C:\Users\koco2\source\repos\bài tập lớn (lô tô)\bài tập lớn (lô tô)\obj\Debug\bài_tập_lớn__lô_tô_.Form1.resources
+C:\Users\koco2\source\repos\bài tập lớn (lô tô)\bài tập lớn (lô tô)\obj\Debug\bài_tập_lớn__lô_tô_.Properties.Resources.resources
+C:\Users\koco2\source\repos\bài tập lớn (lô tô)\bài tập lớn (lô tô)\obj\Debug\bài tập lớn (lô tô).csproj.GenerateResource.cache
+C:\Users\koco2\source\repos\bài tập lớn (lô tô)\bài tập lớn (lô tô)\obj\Debug\bài tập lớn (lô tô).csproj.CoreCompileInputs.cache
+C:\Users\koco2\source\repos\bài tập lớn (lô tô)\bài tập lớn (lô tô)\obj\Debug\bài tập lớn (lô tô).exe
+C:\Users\koco2\source\repos\bài tập lớn (lô tô)\bài tập lớn (lô tô)\obj\Debug\bài tập lớn (lô tô).pdb
+C:\Users\koco2\source\repos\bài tập lớn (lô tô)\bài tập lớn (lô tô)\obj\Debug\bài_tập_lớn__lô_tô_.dangky.resources
